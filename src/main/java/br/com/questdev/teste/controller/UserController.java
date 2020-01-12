@@ -8,7 +8,7 @@ import org.springframework.web.bind.annotation.*;
 public class UserController {
     @GetMapping
     public String getUser(){
-        return "Retorno do metodo getUser - HTTP GET";
+        return "Chupa Odontofuck";
     }
     @PostMapping
     public String createUser(){
@@ -22,4 +22,5 @@ public class UserController {
     public String deletaUser(){
         return "Retorno do metodo getUser - HTTP DELETE";
     }
+
 }
