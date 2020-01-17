@@ -1,2 +1,11 @@
+br/com/questdev/teste/model/GenericModel.class
 br/com/questdev/teste/TesteApplication.class
+br/com/questdev/teste/repository/TestSpringDao.class
+br/com/questdev/teste/model/BaseDomain.class
+br/com/questdev/teste/model/GenericModel$GenericModelBuilder.class
+br/com/questdev/teste/model/TesteResponse.class
+br/com/questdev/teste/busines/impl/TesteBoImpl.class
+br/com/questdev/teste/repository/impl/TestSpringDaoImpl.class
 br/com/questdev/teste/controller/UserController.class
+br/com/questdev/teste/busines/TesteBo.class
+br/com/questdev/teste/model/TesteResponse$TesteResponseBuilder.class

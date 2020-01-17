@@ -1,2 +1,9 @@
+/home/dev/Documentos/Projetos/QuestDev/Codes/testeSpringBoot/src/main/java/br/com/questdev/teste/model/BaseDomain.java
+/home/dev/Documentos/Projetos/QuestDev/Codes/testeSpringBoot/src/main/java/br/com/questdev/teste/model/TesteResponse.java
+/home/dev/Documentos/Projetos/QuestDev/Codes/testeSpringBoot/src/main/java/br/com/questdev/teste/model/GenericModel.java
 /home/dev/Documentos/Projetos/QuestDev/Codes/testeSpringBoot/src/main/java/br/com/questdev/teste/TesteApplication.java
+/home/dev/Documentos/Projetos/QuestDev/Codes/testeSpringBoot/src/main/java/br/com/questdev/teste/repository/impl/TestSpringDaoImpl.java
+/home/dev/Documentos/Projetos/QuestDev/Codes/testeSpringBoot/src/main/java/br/com/questdev/teste/busines/TesteBo.java
+/home/dev/Documentos/Projetos/QuestDev/Codes/testeSpringBoot/src/main/java/br/com/questdev/teste/repository/TestSpringDao.java
 /home/dev/Documentos/Projetos/QuestDev/Codes/testeSpringBoot/src/main/java/br/com/questdev/teste/controller/UserController.java
+/home/dev/Documentos/Projetos/QuestDev/Codes/testeSpringBoot/src/main/java/br/com/questdev/teste/busines/impl/TesteBoImpl.java
