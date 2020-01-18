@@ -1,4 +1,4 @@
 -------------------------------------------------------------------------------
 Test set: br.com.questdev.teste.TesteApplicationTests
 -------------------------------------------------------------------------------
-Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 4.564 s - in br.com.questdev.teste.TesteApplicationTests
+Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 4.136 s - in br.com.questdev.teste.TesteApplicationTests
