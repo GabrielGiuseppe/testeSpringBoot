@@ -8,10 +8,10 @@ import lombok.*;
 @Setter
 @Builder
 @ToString
-public class GenericModel extends BaseDomain{
-
-    private static final long serialVersionUID = 122490434991759475L;
+public class Premiacao {
 
     private String nome;
-    private String email;
+    private Integer quantidade_ganhadores;
+    private Double valor_total;
+    private Integer acertos;
 }
